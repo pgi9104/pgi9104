@@ -49,7 +49,8 @@
           <th colspan="5"><h3> My Skill</th>
         </tr>
         <tr>
-          <td colspan="5"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pgi9104&layout=pie"/></td>
+          <td colspan="3"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pgi9104&layout=pie"/></td>
+          <td colspan="2"><img src="https://github-readme-stats.vercel.app/api?username=pgi9104&show_icons=true&theme=radical"/></td></td>
         </tr>
         <tr>
           <th colspan="3" rowspan="2">Category</th>
