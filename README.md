@@ -39,7 +39,7 @@
 <hr>
 <details>
   <summary>
-    사용기술 : spring, java, docker, jenkins, mysql, mariadb, mssql, oracle, postgres, jsp, bootstrap, javascript, jquery, mybatis, jpa, vue3, typescript, git, ansible
+    사용기술(클릭시 상세보기기) : spring, java, docker, jenkins, mysql, mariadb, mssql, oracle, postgres, jsp, bootstrap, javascript, jquery, mybatis, jpa, vue3, typescript, git, ansible
   </summary>
   <div markdown="1" align="center">
         <br>
