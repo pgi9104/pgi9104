@@ -3,6 +3,16 @@
 </div>
 <br>
 <hr>
+안녕하세요.
+<hr>
+<details>
+  <summary>목표</summary>
+  <div markdown="1">
+    <p>단기 목표 : 개발 기술 향상을 위한 MSA 구현하기</p>
+    <p>장기 목표 : 내가 가진 백엔드, 프론트엔드, 데브옵스 지식을 이용하여 컴퓨터가 대신할 수 있는 일을 모두 프로그램으로 만들어 제가 평생 사용할 프로그램을 만들어볼 생각이며 현재 진행중입니다.</p>
+  </div>
+</details>
+<hr>
 <details>
   <summary>경력(클릭시 보여요)</summary>
   <div align="center">
