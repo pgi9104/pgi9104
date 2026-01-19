@@ -123,7 +123,7 @@
         <td></td>
       </tr>
        <tr>
-         <th rowspan="9">DevOps</th>
+         <th rowspan="11">DevOps</th>
          <th rowspan="2" colspan="2">OS</th>
          <td><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/></td>
          <td></td>
