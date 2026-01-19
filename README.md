@@ -13,27 +13,36 @@
         </tr>
        <tr>
          <th colspan="2">단기 목표</th>
-         <td colspan="3">개발 기술 향을 위한 MSA 구현하기</td>
+         <td colspan="3">minio를 이용한 파일 서비스 구현, rabbitmq를 이용한 이벤트 기반의 시스템 구현</td>
        </tr>
        <tr>
          <th colspan="2">장기 목표</th>
          <td colspan="3">내가 가진 백엔드, 프론트엔드, 데브옵스 지식을 이용하여 컴퓨터가 대신할 수 있는 일을 모두 프로그램으로 만들어 제가 평생 사용할 프로그램을 만들어볼 생각이며 현재 진행중입니다.</td>
        </tr>
-        <tr>
-          <th colspan="5">경력</th>
-        </tr>
-        <tr>
-          <th>개발 기간</th>
-          <th colspan="2">개발 내용</th>
-          <th colspan="2">사용 기술</th>
-        </tr>
+       <tr>
+         <th colspan="5">경력</th>
+       </tr>
+       <tr>
+         <th>개발 기간</th>
+         <th colspan="2">개발 내용</th>
+         <th colspan="2">사용 기술</th>
+       </tr>
        <td>2021.09 ~ 2023.12</td>
-        <td colspan="2">
+       <td colspan="2">
           운영실태보고서와 감사보고서를 생성하는 내부회계 시스템 솔루션을 가진 회사에서 근무하였습니다.
-        </td>
-        <td colspan="2">
+       </td>
+       <td colspan="2">
           spring, java, docker, jenkins, mysql, mariadb, mssql, oracle, postgres, jsp, bootstrap, dhtmlx, javascript, jquery, mybatis
-        </td>
+       </td>
+       <tr>       
+         <td>2024.07 ~ 2025.12</td>
+         <td colspan="2">
+            업무관리 시스템을 모바일 버전과 웹버전을 개발. 
+         </td>
+         <td colspan="2">
+            spring, java, mariadb, jsp, mybatis, reactNative, s3, ses, ec2, route53
+         </td>
+       </tr>
       <tr>
         <th colspan="5"><h3>사용 기술</th>
       </tr>
