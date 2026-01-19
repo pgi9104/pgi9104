@@ -133,7 +133,7 @@
          <td></td>
        </tr>
        <tr>
-         <th rowspan="3" colspan="2">CI/CD</th>
+         <th rowspan="5" colspan="2">CI/CD</th>
          <td><img src="https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white"></td>
          <td></td>
        </tr>
@@ -143,6 +143,14 @@
        </tr>
        <tr>
          <td><img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white"/></td>
+         <td></td>
+       </tr>
+       <tr>
+         <td><img src="https://img.shields.io/badge/harbor-000000?style=for-the-badge&logo=harbor"/></td>
+         <td></td>
+       </tr>
+      <tr>
+         <td><img src="https://img.shields.io/badge/argoCd-000000?style=for-the-badge&logo=argoCd"/></td>
          <td></td>
        </tr>
        <tr>
