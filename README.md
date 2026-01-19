@@ -17,7 +17,7 @@
        </tr>
        <tr>
          <th colspan="2">장기 목표</th>
-         <td colspan="3">내가 가진 백엔드, 프론트엔드, 데브옵스 지식을 이용하여 컴퓨터가 대신할 수 있는 일을 모두 프로그램으로 만들어 제가 평생 사용할 프로그램을 만들어볼 생각이며 현재 진행중입니다.</td>
+         <td colspan="3">프론트, 백엔드, 데브옵스, 설계까지 잘 할 수 있는 개발자가 되는 것이 목표입니다.</td>
        </tr>
        <tr>
          <th colspan="5">경력</th>
@@ -29,7 +29,7 @@
        </tr>
        <td>2021.09 ~ 2023.12</td>
        <td colspan="2">
-          운영실태보고서와 감사보고서를 생성하는 내부회계 시스템 솔루션을 가진 회사에서 근무하였습니다.
+          운영실태보고서와 감사보고서를 생성하는 내부회계 시스템 솔루션을 개발 및 유지보수.
        </td>
        <td colspan="2">
           spring, java, docker, jenkins, mysql, mariadb, mssql, oracle, postgres, jsp, bootstrap, dhtmlx, javascript, jquery, mybatis
@@ -52,7 +52,7 @@
       </tr>
       <tr>
          <th colspan="3">사용기술 요약</th>
-        <td colspan="2">spring, java, docker, jenkins, mysql, mariadb, mssql, oracle, postgres, jsp, bootstrap, javascript, jquery, mybatis, jpa, vue3, typescript, git, ansible</td>
+        <td colspan="2">spring, java, docker, jenkins, mysql, mariadb, mssql, oracle, postgres, jsp, bootstrap, javascript, jquery, mybatis, jpa, vue3, typescript, git, ansible, terraform</td>
       </tr>
       <tr>
         <th colspan="3" rowspan="2">Category</th>
@@ -147,7 +147,9 @@
        </tr>
        <tr>
          <th colspan="2" rowspan="2">Configuration Management</th>
-         <td rowspan="2"><img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/></td>
+         <td rowspan="2">
+           <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
+         </td>
          <td><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></td>
        </tr>
        <tr>
@@ -160,7 +162,10 @@
        </tr>
        <tr>
          <th colspan="2">IaC</th>
-         <td><img src="https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white"/></td>
+         <td>
+           <img src="https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white"/>
+           <img src="https://img.shields.io/badge/terraform-000000?style=for-the-badge&logo=terraform"/>
+         </td>
          <td></td>
        </tr>
      </tbody>
